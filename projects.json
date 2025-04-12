@@ -1,0 +1,12 @@
+[
+  {
+    "name": "portifolio",
+    "subtitle":"My Portifolio Personal" ,
+    "description": "My personal portfolio to present a little about myself and the projects I have done.",
+    "github": "https://github.com/CodeByAllan/portifolio.git",
+    "demo": "https://codebyallan.com.br",
+    "stack": ["Vue.js","Quasar","Anime.js","Axios","TypeScript","Node.js"],
+    "license": "MIT",
+    "author": "Allan Pereira"
+  }
+]

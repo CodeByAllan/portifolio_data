@@ -1,11 +1,50 @@
 [
   {
     "name": "portifolio",
-    "subtitle":"My Portifolio Personal" ,
+    "subtitle":"My Portifolio Personal",
     "description": "My personal portfolio to present a little about myself and the projects I have done.",
     "github": "https://github.com/CodeByAllan/portifolio.git",
     "demo": "https://codebyallan.com.br",
     "stack": ["Vue.js","Quasar","Anime.js","Axios","TypeScript","Node.js"],
+    "license": "MIT",
+    "author": "Allan Pereira"
+  },
+  {
+    "name": "contact-api",
+    "subtitle":"My Email Sending Service",
+    "description": "Email sending service for my portfolio using the emailjs api.",
+    "github": "https://github.com/CodeByAllan/contact-api",
+    "stack": ["Axios","Express","Morgan","Cors","Dotenv","TypeScript","Node.js"],
+    "license": "MIT",
+    "author": "Allan Pereira"
+  },
+  {
+    "name": "chip-8",
+    "subtitle":"Chip-8 emulator",
+    "description": "A Chip-8 emulator written in Go for Windows, capable of running classic games from the 1970s with graphics, sound and user input support.",
+    "github": "https://github.com/CodeByAllan/chip-8",
+    "demo": "https://github.com/CodeByAllan/chip-8?tab=readme-ov-file#screenshots",
+    "stack": ["Go","Raylib"],
+    "license": "GPL-3.0",
+    "author": "Allan Pereira"
+  },
+  {
+    "name": "telerb",
+    "subtitle":"Minimalist Telegram bot library for ruby" ,
+    "description": "A lightweight and minimal Ruby library for building Telegram bots with ease.",
+    "github": "https://github.com/CodeByAllan/TeleRb",
+    "demo": "https://rubygems.org/gems/telerb",
+    "stack": ["Ruby","Httparty"],
+    "license": "MIT",
+    "author": "Allan Pereira"
+  },
+  {
+    "name": "bandeira-entertainment",
+    "subtitle":"Landing page for entertainment brand using React" ,
+    "description": "Landing page for an entertainment company built with React and Styled Components.",
+    "github": "https://github.com/CodeByAllan/bandeira-entertainment",
+    "demo": "https://bandeira-entertainment-two.vercel.app/",
+    "stack": ["React.js","Styled-components"],
     "license": "MIT",
     "author": "Allan Pereira"
   }
